@@ -7,7 +7,7 @@
 3. In the selector, choose the "Forge 1.16.5" version and install the game.
 4. Once you have the game installed, start the game, click hover the mods button and now, click again on `Open mods folder`
 5. Now you need to download this project and copy the folder `mods`
-6. We're near to the end, close the game and start again, click on "Multiplayer"
+6. We're near to the end, close the game and start again, click on `Multiplayer`
 7. Add Server
 
 
