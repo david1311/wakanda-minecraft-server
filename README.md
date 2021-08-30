@@ -19,7 +19,7 @@ Server Address: vps-a8c5d3b7.vps.ovh.net
 That's all! You already can play the game :) 
 
 
-## How could we unlock the 60fps?
+## How could you unlock the 60fps?
 1. Settings
 2. Video Settings
 3. Disable Vsync
