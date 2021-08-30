@@ -1,6 +1,6 @@
 # <img src="https://cdn.icon-icons.com/icons2/159/PNG/256/minecraft_22400.png" width="20px" /> Wakanda Minecraft Server 
 
-## How to install the client in our computer?
+## How to install the client in your computer?
 
 1. Access throught this website to download the client https://tlauncher.org/installer
 2. Install the `.exe`
